@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogWindow</string>
+    <string name="message">Hello Earth!</string>
+    <string name="button_label">Show Dialog</string>
+</resources>
